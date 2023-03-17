@@ -1,0 +1,2 @@
+# SnapPic
+Photo search application
